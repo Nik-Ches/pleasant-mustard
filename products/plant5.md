@@ -15,7 +15,7 @@ images:
   featured:
     thumbnail:
       optimized: "/images/plant5-featured-lg.jpg"
-      fallback: "/images/download.jpg"
+      fallback: "/images/plant5-featured-lg.jpg"
     original:
       optimized: "/images/plant5-featured-lg.webp"
       fallback: "/images/plant5-featured-lg.jpg"
